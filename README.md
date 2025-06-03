@@ -20,6 +20,9 @@ node ProcessUsers.js     # For Question 1
 node FetchUserProfile.js # For Question 2
 ```
 ### Question 3, Question 4 & Question 5
+
+These questions need to be run using React JS
+
 #### How to Run:
 - Open `Index.js` and uncomment the import and component related to the question you want to run.
 - Only one component should be active at a time.
