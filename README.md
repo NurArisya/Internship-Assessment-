@@ -20,8 +20,8 @@ node FetchUserProfile.js # For Question 2
 ```
 ### Question 3, Question 4 & Question 5
 #### How to Run:
-=> Using Index.js to run the question.
-=> Uncomment the file that need to be run.
+- Open `Index.js` and uncomment the import and component related to the question you want to run.
+- Only one component should be active at a time.
 
 ```bash
 npm start
