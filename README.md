@@ -1,14 +1,28 @@
-Name: Nur Arisya binti Mohd Yasak
-Purpose: Internship Assessment
+# Internship Assessment – Nur Arisya binti Mohd Yasak
 
-Question 1 and Question 2 
-=> Run using Node.js
-=> example; node ProcessUsers.js or node FetchUserProfile.js
+This repository contains the solutions for an internship assessment.
 
-Question 3, Question 4, and Question 5
-=> Using React component.
-=> Need to uncomment which file that need to be run.
+---
 
-Problems:
-1. For the Question 5, the avatar image did not appear. Already tried to fix the DNS but failed.
+## 📌 Instructions
 
+### Question 1 & Question 2 
+
+These questions need to be run on the terminal using Node.js
+
+#### How to Run:
+
+Make sure Node.js is installed, then run the following commands in the terminal:
+
+```bash
+node ProcessUsers.js     # For Question 1
+node FetchUserProfile.js # For Question 2
+```
+### Question 3, Question 4 & Question 5
+#### How to Run:
+=> Using Index.js to run the question.
+=> Uncomment the file that need to be run.
+
+```bash
+npm start
+```
