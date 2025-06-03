@@ -1,4 +1,5 @@
-# Internship Assessment – Nur Arisya binti Mohd Yasak
+# Internship Assessment
+Name: Nur Arisya binti Mohd Yasak
 
 This repository contains the solutions for an internship assessment.
 
